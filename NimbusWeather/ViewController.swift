@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Wasabi_Weather
+//  Nimbus Weather
 //
 //  Created by Kyle Truong on 5/29/17.
 //  Copyright © 2017 Kyle Truong. All rights reserved.
